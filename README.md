@@ -1,6 +1,8 @@
 # Scrabble Calculator
 Example of my dictionary work from the CS101 Computer Science Pathway/Scrabble. I followed the main instructions, then expanded on the project to further my technical skills
 
+Last worked on 21/5/22
+
 ## Progress so far
 
 -Created dictionaries of letter scores
@@ -19,6 +21,8 @@ Example of my dictionary work from the CS101 Computer Science Pathway/Scrabble. 
 
 # Game Using Classes and Objects
 Example of my work with classes interacting with each other from CS101 Computer Science Pathway/Create a Game Using Classes and Objects
+
+Last worked on 24/5/22
 
 ## Progress so far
 
