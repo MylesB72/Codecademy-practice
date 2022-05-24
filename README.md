@@ -18,7 +18,7 @@ Example of my dictionary work from the CS101 Computer Science Pathway/Scrabble. 
 -Store scores in a .csv file
 
 # Game Using Classes and Objects
--Example of my work with classes interacting with each other from CS101 Computer Science Pathway/Create a Game Using Classes and Objects
+Example of my work with classes interacting with each other from CS101 Computer Science Pathway/Create a Game Using Classes and Objects
 
 ## Progress so far
 
