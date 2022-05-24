@@ -1,5 +1,5 @@
 # Scrabble Calculator
-Example of my dictionary work from the Code Academy Computer Science Pathway. I followed the main instructions, then expanded on the project to further my technical skills
+Example of my dictionary work from the CS101 Computer Science Pathway/Scrabble. I followed the main instructions, then expanded on the project to further my technical skills
 
 ## Progress so far
 
@@ -18,7 +18,7 @@ Example of my dictionary work from the Code Academy Computer Science Pathway. I 
 -Store scores in a .csv file
 
 # Game Using Classes and Objects
--Example of my work with classes interacting with each other.
+-Example of my work with classes interacting with each other from CS101 Computer Science Pathway/Create a Game Using Classes and Objects
 
 ## Progress so far
 
